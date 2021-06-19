@@ -5,7 +5,7 @@
 * [Singleton](https://github.com/AlexParog/GenerativePatterns/tree/main/NDP_GenerativePatterns_1_1_Logger)
 
 ### *Структурные шаблоны. Proxy, Decorator, Adapter*
-
+* [Adapter](https://github.com/AlexParog/NJavaDesignPatterns/tree/main/NDP_StructuralTemplates_1_2)
 
 ### *Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility*
 
